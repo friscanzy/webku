@@ -206,17 +206,17 @@ html {
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 17px;
-  background-color: black;
+  background-color: white;
   overflow-x: hidden;
 }
 
 .container {
-  background-color: black;
+  background-color: white;
 }
 
 p,
 address {
-  color: white;
+  color: black;
   line-height: 1.8;
 }
 
