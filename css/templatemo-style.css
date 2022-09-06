@@ -206,17 +206,17 @@ html {
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 17px;
-  background-color: white;
+  background-color: black;
   overflow-x: hidden;
 }
 
 .container {
-  background-color: white;
+  background-color: black;
 }
 
 p,
 address {
-  color: black;
+  color: white;
   line-height: 1.8;
 }
 
@@ -869,3 +869,4 @@ body {
   background: gray;
   color: white;
 }
+
